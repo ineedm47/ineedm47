@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ineedm47
-- 👀 I’m interested in WEB3 and the future
-- 🌱 I’m currently learning building on Solana
-- 💞️ I’m looking to collaborate on nice AI or Gaming Projects
-- 📫 How to reach me Email,TG,Discord,X
+- Hi, I’m @hak
+- I’m interested in WEB3 and the future
+- I’m currently learning building on Solana
+- I’m looking to collaborate on nice AI or Gaming Projects
+- How to reach me Email,TG,Discord,X
 
 
 <!---
